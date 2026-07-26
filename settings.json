@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "offer-determines.gl.joinmc.link",
+    "ip": "venazone.redstone.tr",
     "port": 25565,
     "version": "",
     "try-creative": false
@@ -33,7 +33,7 @@
       "messages": [
         "Mami'ye Limon Deme!",
         "Mami'nin en sevdiği oyun Minecraft'dır",
-        "Mami hep OP istemiştir"
+        "VenaZone kanalına abone ol"
       ]
     },
     "chat-log": true,
