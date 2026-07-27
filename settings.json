@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AktifMamiBot",
+    "username": "AFKMamiBot",
     "password": "Aktif9999",
     "type": "offline"
   },
   "server": {
-    "ip": "venazone.redstone.tr",
+    "ip": "agalarsmpppp.aternos.me",
     "port": 25565,
     "version": "",
     "try-creative": false
@@ -33,7 +33,7 @@
       "messages": [
         "Mami'ye Limon Deme!",
         "Mami'nin en sevdiği oyun Minecraft'dır",
-        "VenaZone kanalına abone ol"
+        "Ee ne yapak?"
       ]
     },
     "chat-log": true,
