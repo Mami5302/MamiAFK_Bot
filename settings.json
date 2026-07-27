@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "agalarsmpppp.aternos.me",
+    "ip": "agalarsmpp.aternos.me",
     "port": 25565,
     "version": "",
     "try-creative": false
