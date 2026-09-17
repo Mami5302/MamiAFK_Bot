@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFKMamiBot",
-    "password": "Aktif9999",
+    "username": "Virus",
+    "password": "Password",
     "type": "offline"
   },
   "server": {
-    "ip": "agalarsmpp.aternos.me",
+    "ip": "craftlyra.tkmc.net",
     "port": 25565,
     "version": "",
     "try-creative": false
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "Aktif9999"
+      "password": "Password"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Mami'ye Limon Deme!",
-        "Mami'nin en sevdiği oyun Minecraft'dır",
-        "Ee ne yapak?"
+        "Virus",
+        "Virus",
+        "Virus"
       ]
     },
     "chat-log": true,
