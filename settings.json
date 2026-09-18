@@ -1,31 +1,85 @@
-{
-  "name": "AFK Bot",
-  "bot-account": {
-    "username": "bot1",
-    "password": "Password",
-    "type": "offline"
-      "name": "AFK Bot1",
-  "bot-account": {
-    "username": "bot2",
-    "password": "Password",
-    "type": "offline"
-      "name": "AFK Bot",
-  "bot-account": {
-    "username": "bot3",
-    "password": "Password",
-    "type": "offline"
-      "name": "AFK Bot",
-  "bot-account": {
-    "username": "bot4",
-    "password": "Password",
-    "type": "offline"
-      "name": "AFK Bot",
-  "bot-account": {
-    "username": "bot5",
-    "password": "Password",
-    "type": "offline"
-      "name": "AFK Bot",
+[
+  {
+    "name": "AFK Bot 1",
+    "bot-account": {
+      "username": "bot1",
+      "password": "Password",
+      "type": "offline"
+    }
   },
+  {
+    "name": "AFK Bot 2",
+    "bot-account": {
+      "username": "bot2",
+      "password": "Password",
+      "type": "offline"
+    }
+  },
+  {
+    "name": "AFK Bot 3",
+    "bot-account": {
+      "username": "bot3",
+      "password": "Password",
+      "type": "offline"
+    }
+  },
+  {
+    "name": "AFK Bot 4",
+    "bot-account": {
+      "username": "bot4",
+      "password": "Password",
+      "type": "offline"
+    }
+  },
+  {
+    "name": "AFK Bot 5",
+    "bot-account": {
+      "username": "bot5",
+      "password": "Password",
+      "type": "offline"
+    }
+  },
+  {
+    "name": "AFK Bot 6",
+    "bot-account": {
+      "username": "bot6",
+      "password": "Password",
+      "type": "offline"
+    }
+  },
+  {
+    "name": "AFK Bot 7",
+    "bot-account": {
+      "username": "bot7",
+      "password": "Password",
+      "type": "offline"
+    }
+  },
+  {
+    "name": "AFK Bot 8",
+    "bot-account": {
+      "username": "bot8",
+      "password": "Password",
+      "type": "offline"
+    }
+  },
+  {
+    "name": "AFK Bot 9",
+    "bot-account": {
+      "username": "bot9",
+      "password": "Password",
+      "type": "offline"
+    }
+  },
+  {
+    "name": "AFK Bot 10",
+    "bot-account": {
+      "username": "bot10",
+      "password": "Password",
+      "type": "offline"
+    }
+  }
+]
   "server": {
     "ip": "craftlyra.tkmc.net",
     "port": 25565,
