@@ -1,65 +1,9 @@
-
-  {
-    name: "AFK Bot 1",
-    "bot-account": { username: "TestBot_1", password: "Password", type: "offline" },
-    server: { ip: "craftlyra.tkmc.net", port: 25565, version: "", "try-creative": false },
-    utils: { "auto-auth": { enabled: true, password: "Password" }, "auto-reconnect": true, "auto-reconnect-delay": 2000 }
-  },
-  {
-    name: "AFK Bot 2",
-    "bot-account": { username: "TestBot_2", password: "Password", type: "offline" },
-    server: { ip: "craftlyra.tkmc.net", port: 25565, version: "", "try-creative": false },
-    utils: { "auto-auth": { enabled: true, password: "Password" }, "auto-reconnect": true, "auto-reconnect-delay": 2000 }
-  },
-  {
-    name: "AFK Bot 3",
-    "bot-account": { username: "TestBot_3", password: "Password", type: "offline" },
-    server: { ip: "craftlyra.tkmc.net", port: 25565, version: "", "try-creative": false },
-    utils: { "auto-auth": { enabled: true, password: "Password" }, "auto-reconnect": true, "auto-reconnect-delay": 2000 }
-  },
-  {
-    name: "AFK Bot 4",
-    "bot-account": { username: "TestBot_4", password: "Password", type: "offline" },
-    server: { ip: "craftlyra.tkmc.net", port: 25565, version: "", "try-creative": false },
-    utils: { "auto-auth": { enabled: true, password: "Password" }, "auto-reconnect": true, "auto-reconnect-delay": 2000 }
-  },
-  {
-    name: "AFK Bot 5",
-    "bot-account": { username: "TestBot_5", password: "Password", type: "offline" },
-    server: { ip: "craftlyra.tkmc.net", port: 25565, version: "", "try-creative": false },
-    utils: { "auto-auth": { enabled: true, password: "Password" }, "auto-reconnect": true, "auto-reconnect-delay": 2000 }
-  },
-  {
-    name: "AFK Bot 6",
-    "bot-account": { username: "TestBot_6", password: "Password", type: "offline" },
-    server: { ip: "craftlyra.tkmc.net", port: 25565, version: "", "try-creative": false },
-    utils: { "auto-auth": { enabled: true, password: "Password" }, "auto-reconnect": true, "auto-reconnect-delay": 2000 }
-  },
-  {
-    name: "AFK Bot 7",
-    "bot-account": { username: "TestBot_7", password: "Password", type: "offline" },
-    server: { ip: "craftlyra.tkmc.net", port: 25565, version: "", "try-creative": false },
-    utils: { "auto-auth": { enabled: true, password: "Password" }, "auto-reconnect": true, "auto-reconnect-delay": 2000 }
-  },
-  {
-    name: "AFK Bot 8",
-    "bot-account": { username: "TestBot_8", password: "Password", type: "offline" },
-    server: { ip: "craftlyra.tkmc.net", port: 25565, version: "", "try-creative": false },
-    utils: { "auto-auth": { enabled: true, password: "Password" }, "auto-reconnect": true, "auto-reconnect-delay": 2000 }
-  },
-  {
-    name: "AFK Bot 9",
-    "bot-account": { username: "TestBot_9", password: "Password", type: "offline" },
-    server: { ip: "craftlyra.tkmc.net", port: 25565, version: "", "try-creative": false },
-    utils: { "auto-auth": { enabled: true, password: "Password" }, "auto-reconnect": true, "auto-reconnect-delay": 2000 }
-  },
-  {
-    name: "AFK Bot 10",
-    "bot-account": { username: "TestBot_10", password: "Password", type: "offline" },
-    server: { ip: "craftlyra.tkmc.net", port: 25565, version: "", "try-creative": false },
-    utils: { "auto-auth": { enabled: true, password: "Password" }, "auto-reconnect": true, "auto-reconnect-delay": 2000 }
-  }
-];
+{
+  "name": "AFK Bot",
+  "bot-account": {
+    "username": "Virus",
+    "password": "Password",
+    "type": "offline"
   },
   "server": {
     "ip": "craftlyra.tkmc.net",
