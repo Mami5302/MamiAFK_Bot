@@ -1,5 +1,4 @@
-{
-  module.exports = [
+
   {
     name: "AFK Bot 1",
     "bot-account": { username: "TestBot_1", password: "Password", type: "offline" },
