@@ -1,14 +1,30 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "hilecicocuk31",
+    "username": "bot1",
+    "password": "Password",
+    "type": "offline"
+      "name": "AFK Bot1",
+  "bot-account": {
+    "username": "bot2",
     "password": "Password",
     "type": "offline"
       "name": "AFK Bot",
   "bot-account": {
-    "username": "hilecicocuk31",
+    "username": "bot3",
     "password": "Password",
     "type": "offline"
+      "name": "AFK Bot",
+  "bot-account": {
+    "username": "bot4",
+    "password": "Password",
+    "type": "offline"
+      "name": "AFK Bot",
+  "bot-account": {
+    "username": "bot5",
+    "password": "Password",
+    "type": "offline"
+      "name": "AFK Bot",
   },
   "server": {
     "ip": "craftlyra.tkmc.net",
@@ -34,11 +50,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1,
       "messages": [
-        "Virus",
-        "Virus",
-        "Virus"
+        "viiviviiviviiviviivivi",
+        "viiviviviiviviviivivi",
+        "viviviviiviiviviviivi"
       ]
     },
     "chat-log": true,
