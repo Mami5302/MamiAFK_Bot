@@ -1,7 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Virus",
+    "username": "hilecicocuk31",
+    "password": "Password",
+    "type": "offline"
+      "name": "AFK Bot",
+  "bot-account": {
+    "username": "hilecicocuk31",
     "password": "Password",
     "type": "offline"
   },
